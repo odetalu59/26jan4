@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://bscwin.app/superjp/sitemap.xml
+Sitemap: https://bscwin.app/gilajp/sitemap.xml
+Sitemap: https://bscwin.app/gojekpot/sitemap.xml
+Sitemap: https://bscwin.app/winstrike69/sitemap.xml
+Sitemap: https://bscwin.app/slotgacor/sitemap.xml
+Sitemap: https://bscwin.app/slotzeus/sitemap.xml
+Sitemap: https://bscwin.app/kaptenjackpot/sitemap.xml
+Sitemap: https://bscwin.app/boosterjp/sitemap.xml
+Sitemap: https://bscwin.app/kerajaanslot/sitemap.xml
+Sitemap: https://bscwin.app/pakong86/sitemap.xml
+Sitemap: https://bscwin.app/viral88/sitemap.xml
+Sitemap: https://bscwin.app/clan4d/sitemap.xml
+Sitemap: https://bscwin.app/dinamit4d/sitemap.xml
+Sitemap: https://bscwin.app/elang212/sitemap.xml
+Sitemap: https://bscwin.app/gori77/sitemap.xml
+Sitemap: https://bscwin.app/viral4d/sitemap.xml
+Sitemap: https://bscwin.app/playground88/sitemap.xml
